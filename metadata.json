@@ -1,0 +1,8 @@
+{
+  "name": "eCornell Custom Example with guides filtering",
+  "type": "helper",
+  "properties": {
+    "user_type": "all", 
+    "component": "all"
+  }
+}
