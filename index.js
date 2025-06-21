@@ -11,7 +11,7 @@ Note that you will respond without xml tags and only the code example and explan
 Be positive, but not condescending.`
 
   // register(id: unique button id, name: name of button visible in Coach, function: function to call when button is clicked) 
-  codioIDE.coachBot.register("customExampleHelper", "Give me an example", onButtonPress)
+  codioIDE.coachBot.register("customExampleHelper", "Provide an example of what I need to do", onButtonPress)
 
   async function onButtonPress() {
     //Gets information from the student assignment data, files, etc
